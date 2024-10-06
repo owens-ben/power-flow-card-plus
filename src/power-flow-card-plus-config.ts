@@ -104,4 +104,4 @@ export type ConfigEntities = {
 
 export type ConfigEntity = Battery | Grid | Solar | Home | FossilFuelPercentage | IndividualDeviceType;
 
-export const MAX_INDIVIDUAL_ENTITIES = 4;
+export const MAX_INDIVIDUAL_ENTITIES = 12;
